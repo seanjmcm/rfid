@@ -6,6 +6,7 @@ Created on Mon Jun 17 23:32:14 2024
 """
 #https://pyscard.sourceforge.io/pyscard-wrapper.html#
 #https://rpi4cluster.com/python-nfc-writer-reader/
+#https://www.mutek.com/mutek-pcsc-readers-pcsc-lite-linux/
 
 from smartcard.Exceptions import NoCardException
 from smartcard.System import readers
